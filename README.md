@@ -51,9 +51,7 @@ or
 yarn dev
 ```
 
-[http://localhost:3000](http://localhost:3000) 
-
-5. Page
+5. Page : [http://localhost:3000](http://localhost:3000) 
 
 <img width="500" alt="image" src="https://github.com/inseo24/my-chatgpt-project/assets/84627144/c4b45c4a-ec08-46e2-8011-fc93765b9fd3">
 
