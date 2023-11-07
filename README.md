@@ -44,3 +44,22 @@ or
 ```
 yarn dev
 ```
+
+[http://localhost:3000](http://localhost:3000) 
+
+5. Page
+
+<img width="500" alt="image" src="https://github.com/inseo24/my-chatgpt-project/assets/84627144/c4b45c4a-ec08-46e2-8011-fc93765b9fd3">
+
+6. Changing the ChatGPT Model
+
+`/api/chat/route/ts` 
+
+```javascript
+const payload = {
+  messages,
+  model: 'gpt-4-1106-preview', // Change this to the model you want to use
+  stream: false,
+};
+```
+- [OpenAI Models page](https://platform.openai.com/docs/models/models)
