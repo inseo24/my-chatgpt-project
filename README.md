@@ -36,6 +36,12 @@ OPENAI_API_KEY=your-api-key-here
 4. Run the App
 
 ```
+next dev
+```
+
+or
+
+```
 npm run dev
 ```
 
