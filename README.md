@@ -53,7 +53,8 @@ yarn dev
 
 5. Page : [http://localhost:3000](http://localhost:3000) 
 
-<img width="500" alt="image" src="https://github.com/inseo24/my-chatgpt-project/assets/84627144/c4b45c4a-ec08-46e2-8011-fc93765b9fd3">
+<img width="853" alt="image" src="https://github.com/inseo24/my-chatgpt-project/assets/84627144/f6dc376b-24a2-4a99-9e16-8327600dd7b3">
+
 
 6. Changing the ChatGPT Model
 
